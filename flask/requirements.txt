@@ -1,0 +1,13 @@
+flask
+mlflow[extras]
+boto3
+psycopg2-binary
+numpy
+scipy
+pandas
+scikit-learn
+minio
+xgboost
+python-dotenv
+requests
+gunicorn

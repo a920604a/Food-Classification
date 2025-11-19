@@ -1,4 +1,6 @@
 dataset/*
+dataset
 *.jpeg
 *.jpg
 *.png
+storage/*
